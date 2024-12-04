@@ -68,7 +68,7 @@ function CaptainRegister() {
        type="password" placeholder='password' />
        <button
        className='bg-[#111] text-white mb-5 rounded px-3   py-2 w-full text-base placeholder:text-sm'
-       >Login</button>
+       >Create Account</button>
      </form>
       <p className='text-center'>Already have a account?<Link to='/captian-login
       ' className='text-blue-600 pl-1'>Login here</Link></p>
