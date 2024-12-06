@@ -61,7 +61,7 @@ const navigate = useNavigate()
        ' className='text-blue-600 pl-1'>Create New Account</Link></p>
      </div>
      <div>
-      <Link to='/captian-login'
+      <Link to='/captain-login'
        className='bg-[#111] flex justify-center items-center text-white mb-5 rounded px-3   py-2 w-full text-lg placeholder:text-base'
       >Sign in as Captain</Link>
      </div>
